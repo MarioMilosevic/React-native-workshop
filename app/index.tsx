@@ -7,6 +7,7 @@ export default function Index() {
       <Text>Edit app/index.tsx to edit this screen. Mario Maradona</Text>
       <Link href="/about">About</Link>
       <Link href="/profile">Profile</Link>
+      <Link href="/products">Product List </Link>
     </View>
   );
 }
